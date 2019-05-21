@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Musicli</string>
+    <string name="error_no_yt_link">Kein gültiger Youtube Link!</string>
+
+</resources>
